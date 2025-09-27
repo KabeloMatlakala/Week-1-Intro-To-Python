@@ -17,7 +17,7 @@ This is a simple Python program that performs basic mathematical operations. The
 
 1. Clone this repository or download the Python script file.
    ```bash
-   git clone https://github.com/KabeloMatlakala/Week-1-Intro-To-Python.git
+   git clone https://github.com/KabeloMatlakala/Intro-To-Python.git
    ```
 
 2. Navigate to the directory containing the script:

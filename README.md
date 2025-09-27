@@ -1,4 +1,4 @@
-# Week-1-Introduction-To-Python
+# Introduction-To-Python
 
 # Basic Calculator Program
 
